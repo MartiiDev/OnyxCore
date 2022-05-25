@@ -2,6 +2,7 @@
 Core plugin for a Spigot Minecraft server. Its purpose is to centralize lots of plugins to do the same things in the end.
 
 DISCLAIMER: This is my first ever Minecraft plugin so it is probably not stable and probably has some memory leaks!!! Use at your own risks.
+Most of the strings are in French. Message me if you need a translated version.
 
 
 ## Current features:
